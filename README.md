@@ -1,6 +1,11 @@
 # JacDanielMoses.github.io
+
+Website: https://jacdanielmoses.github.io/
+
 My name is Jacinth Daniel Moses
+
 H:00379506
+
 Email:jdm2003@hw.ac.uk
 
 About Repository:
